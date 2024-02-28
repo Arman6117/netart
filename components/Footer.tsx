@@ -26,7 +26,7 @@ const Footer = () => {
         <Link href={'www.facebook.com/cripumps'} className="text-white">www.facebook.com/cripumps</Link>
       </div>
       <div className="flex items-center space-x-6">
-        <div className = ''>
+        <div className = 'p-2'>
           <FaGlobe
             size={26}
             className="text-white "
