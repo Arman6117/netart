@@ -16,7 +16,7 @@ const Footer = () => {
         </div>
         <p className="text-white">Toll Free {' '}<span className="font-bold">1800 200 1234</span></p>
       </div>
-      <div className="flex items-center space-x-2">
+      <div className="flex items-center space-x-6">
         <div className = 'rounded-full bg-white p-2'>
           <RiFacebookFill
             size={20}
@@ -25,7 +25,7 @@ const Footer = () => {
         </div>
         <Link href={'www.facebook.com/cripumps'} className="text-white">www.facebook.com/cripumps</Link>
       </div>
-      <div className="flex items-center space-x-2">
+      <div className="flex items-center space-x-6">
         <div className = ''>
           <FaGlobe
             size={26}
